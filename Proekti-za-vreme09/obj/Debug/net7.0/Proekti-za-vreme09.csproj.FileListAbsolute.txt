@@ -1,0 +1,14 @@
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\bin\Debug\net7.0\Proekti-za-vreme09.exe
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\bin\Debug\net7.0\Proekti-za-vreme09.deps.json
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\bin\Debug\net7.0\Proekti-za-vreme09.runtimeconfig.json
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\bin\Debug\net7.0\Proekti-za-vreme09.dll
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\bin\Debug\net7.0\Proekti-za-vreme09.pdb
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.AssemblyInfoInputs.cache
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.AssemblyInfo.cs
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.csproj.CoreCompileInputs.cache
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.dll
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\refint\Proekti-za-vreme09.dll
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.pdb
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\Proekti-za-vreme09.genruntimeconfig.cache
+F:\Users\Mario\source\repos\Proekti-za-vreme09\Proekti-za-vreme09\obj\Debug\net7.0\ref\Proekti-za-vreme09.dll
